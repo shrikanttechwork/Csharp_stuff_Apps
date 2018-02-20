@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\Csharp_stuff_Apps\Csharp_stuff_Apps\obj\Debug\Csharp_stuff_Apps.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\Csharp_stuff_Apps\Csharp_stuff_Apps\obj\Debug\Csharp_stuff_Apps.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Csharp_stuff_Apps\Csharp_stuff_Apps\bin\Debug\Csharp_stuff_Apps.exe.config
+c:\users\admin\source\repos\Csharp_stuff_Apps\Csharp_stuff_Apps\bin\Debug\Csharp_stuff_Apps.exe
+c:\users\admin\source\repos\Csharp_stuff_Apps\Csharp_stuff_Apps\bin\Debug\Csharp_stuff_Apps.pdb
+c:\users\admin\source\repos\Csharp_stuff_Apps\Csharp_stuff_Apps\obj\Debug\Csharp_stuff_Apps.exe
+c:\users\admin\source\repos\Csharp_stuff_Apps\Csharp_stuff_Apps\obj\Debug\Csharp_stuff_Apps.pdb
